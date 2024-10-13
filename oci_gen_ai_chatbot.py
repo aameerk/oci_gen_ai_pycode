@@ -1,5 +1,5 @@
 import oci
-compartment_id = "ocid1.compartment.oc1..<...>"
+compartment_id = "end_point_key"
 CONFIG_PROFILE = "DEFAULT"
 config = oci.config.from_file('/Users/danimmar/.oci/config', CONFIG_PROFILE)
 # Service endpoint
